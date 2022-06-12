@@ -22,8 +22,8 @@ class HeaderComponent extends Component {
                             </button>
                             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                             <div class="navbar-nav">
-                                <Link class="nav-link active" aria-current="page" to="/add-student">Add Student</Link>
-                                <Link class="nav-link" to="/update-student">Update student</Link>
+                                <Link class="nav-link active" aria-current="page" to="/add-student"></Link>
+                                <Link class="nav-link" to="/update-student">ADD student</Link>
                                 
                             </div>
                             </div>

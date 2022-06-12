@@ -41,9 +41,7 @@ class ListStudentComponent extends Component {
             <div>
                 <br></br>
                 <h2 className="text-center">Student List</h2>
-                <div>
-                    <button  className="btn btn-primary btn-success" onClick={this.addStudent}>Add Students</button>
-                </div>
+                
                 <br></br>
                 <div className="row">
                     <table className=" table table-striped table-bordered">
